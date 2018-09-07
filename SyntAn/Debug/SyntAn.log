@@ -1,6 +1,0 @@
-﻿  SyntAn.cpp
-f:\work\cpp\syntan\syntan\syntan.cpp(208): warning C4018: <: несоответствие типов со знаком и без знака
-f:\work\cpp\syntan\syntan\syntan.cpp(237): warning C4018: <: несоответствие типов со знаком и без знака
-f:\work\cpp\syntan\syntan\syntan.cpp(291): warning C4018: <: несоответствие типов со знаком и без знака
-  SyntAn.vcxproj -> F:\work\cpp\SyntAn\Debug\SyntAn.exe
-  SyntAn.vcxproj -> F:\work\cpp\SyntAn\Debug\SyntAn.pdb (Partial PDB)
